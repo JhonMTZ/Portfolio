@@ -1362,6 +1362,10 @@ a:hover {
   background-color: #292F36;
   border: 1px solid #4e595f;
 }
+.testi{
+  display: inline-flex;
+  justify-items: center;
+}
 
 .post-block {
   background-color: #292F36;
@@ -2104,6 +2108,8 @@ height: 40px;
 }
 .rad img{
   border-radius: 10%;
+  margin-top: 15px;
+  margin-left: 40%;
 
 }
 .rad-50 img{
@@ -2111,7 +2117,13 @@ height: 40px;
  margin-left: 150px;
 
 }
+.rad img{
+   border-radius: 50%;
+}
 .mapa{
   display: flex;
   margin-bottom: 40px;
+}
+.video{
+  height: 240px;
 }
